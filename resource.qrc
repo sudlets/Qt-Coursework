@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Иконки/600px-Black_pencil.svg.png</file>
+        <file>Иконки/235762.png</file>
+        <file>Иконки/Actions-application-exit-icon.png</file>
+        <file>Иконки/article-compose-document-empty-page-text-write-27565.png</file>
+        <file>Иконки/delete_bd.png</file>
+        <file>Иконки/document.png</file>
+        <file>Иконки/explorer.png</file>
+        <file>Иконки/form-icon.png</file>
+        <file>Иконки/merge.png</file>
+        <file>Иконки/new_db.png</file>
+        <file>Иконки/o-nas.png</file>
+        <file>Иконки/Open_date.png</file>
+        <file>Иконки/Plus_blue.svg.png</file>
+        <file>Иконки/save-as.png</file>
+        <file>Иконки/w256h2561383075049Searchicon.png</file>
+        <file>Иконки/w512h5121380984637delete1.png</file>
+        <file>Иконки/Взять из файла.png</file>
+        <file>Иконки/Записать в файл.jpg</file>
+        <file>Иконки/Слияние в программе.png</file>
+        <file>Иконки/Слияние в файле.png</file>
+    </qresource>
+</RCC>
